@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="background">background</string>
+    <string name="signup_header1">Let\'s start here</string>
+    <string name="back_button_desc">back</string>
+    <string name="signUp_header2">Fill in your details to begin</string>
+    <string name="hint_fullName">Fullname</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_password">Password</string>
+    <string name="signUp_button">Sign Up</string>
+    <string name="or">or</string>
+    <string name="signUp_facebook">Connect with Facebook</string>
+    <string name="signUp_google">Connect with Google</string>
+    <string name="terms">By signing in, I agree with Terms of Use and Privacy Policy</string>
+    <string name="main_header1">Best holiday days</string>
+    <string name="main_header2">Find deals for any season from cosy country homes to city flats</string>
+    <string name="get_started_button">Get started</string>
+    <string name="main_header3">Explore as guest</string>
+</resources>
